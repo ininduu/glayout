@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">gridLayout</string>
+    <string name="aap">Architecture</string>
+    <string name="allister">Automotive</string>
+    <string name="cristiano">Biology</string>
+    <string name="idzes">Crafts</string>
+    <string name="lautaro">Business</string>
+    <string name="merino">Culinary</string>
+    <string name="pele">Design</string>
+    <string name="phelp">Ecology</string>
+    <string name="sergio">Engineering</string>
+</resources>
